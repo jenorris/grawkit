@@ -300,7 +300,7 @@ BEGIN {
 	style["label/font-size"] = "14"
 
 	# Color scheme, based on `base16-solarized-dark`
-	style["pallete"] = "#002b36,#268bd2,#859900,#cb4b16,#2aa198,#dc322f,#d33682,#6c71c4,#b58900"
+	style["pallete"] = "#917C6F,#268bd2,#859900,#cb4b16,#2aa198,#D4AA00,#d33682,#6c71c4,#b58900"
 
 	# Static SVG templates.
 	svg["svg"]    = "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"%d %d %d %d\">"
